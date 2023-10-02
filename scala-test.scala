@@ -1,3 +1,4 @@
+/*
 import scala.io.StdIn.readLine
 object Main {
   def main(args: Array[String]): Unit = {
@@ -5,3 +6,5 @@ object Main {
     println(s"Hi, $name!")
   }
 }
+
+*/
